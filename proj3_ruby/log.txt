@@ -1,0 +1,45 @@
+Character level: 110 Character honorable kills: 4217 written to log on Battlenet request
+Character class: Monk Character specialization: Mistweaver written to log on Raider_io request
+Ranked 2141 out of 14275 in encounter number 2032 written to log on Warcraftlogs request
+** CACHED DATA  ** sCharacter level: 110 Character honorable kills: 4217 written to log on Battlenet request
+** CACHED DATA  ** Character class: Monk Character specialization: Mistweaver written to log on Raider_io request
+** CACHED DATA  ** Ranked 2141 out of 14275 in encounter number 2032 written to log on Warcraftlogs request
+** CACHED DATA  ** sCharacter level: 110 Character honorable kills: 4217 written to log on Battlenet request
+** CACHED DATA  ** Character class: Monk Character specialization: Mistweaver written to log on Raider_io request
+** CACHED DATA  ** Ranked 2141 out of 14275 in encounter number 2032 written to log on Warcraftlogs request
+** CACHED DATA  ** sCharacter level: 110 Character honorable kills: 4217 written to log on Battlenet request
+** CACHED DATA  ** Character class: Monk Character specialization: Mistweaver written to log on Raider_io request
+** CACHED DATA  ** Ranked 2141 out of 14275 in encounter number 2032 written to log on Warcraftlogs request
+Failed to open TCP connection to eu.api.battle.net:443 (getaddrinfo: No such host is known. )
+Failed to open TCP connection to raider.io:443 (getaddrinfo: No such host is known. )
+** CACHED DATA  ** Ranked 2141 out of 14275 in encounter number 2032 written to log on Warcraftlogs request
+Character level: 110 Character honorable kills: 2426 written to log on Battlenet request
+Character class: Paladin Character specialization: Holy written to log on Raider_io request
+** CACHED DATA  ** Ranked 2141 out of 14275 in encounter number 2032 written to log on Warcraftlogs request
+** CACHED DATA  ** sCharacter level: 110 Character honorable kills: 2426 written to log on Battlenet request
+** CACHED DATA  ** Character class: Paladin Character specialization: Holy written to log on Raider_io request
+** CACHED DATA  ** Ranked 2141 out of 14275 in encounter number 2032 written to log on Warcraftlogs request
+** CACHED DATA  ** sCharacter level: 110 Character honorable kills: 2426 written to log on Battlenet request
+** CACHED DATA  ** Character class: Paladin Character specialization: Holy written to log on Raider_io request
+** CACHED DATA  ** Ranked 2141 out of 14275 in encounter number 2032 written to log on Warcraftlogs request
+** CACHED DATA  ** sCharacter level: 110 Character honorable kills: 2426 written to log on Battlenet request
+** CACHED DATA  ** Character class: Paladin Character specialization: Holy written to log on Raider_io request
+Ranked 1185 out of 29643 in encounter number 2032 written to log on Warcraftlogs request
+** CACHED DATA  ** sCharacter level: 110 Character honorable kills: 2426 written to log on Battlenet request
+** CACHED DATA  ** Character class: Paladin Character specialization: Holy written to log on Raider_io request
+** CACHED DATA  ** Ranked 1185 out of 29643 in encounter number 2032 written to log on Warcraftlogs request
+Character level: 100 Character honorable kills: 2590 written to log on Battlenet request
+400 Bad Request
+** CACHED DATA  ** Ranked 1185 out of 29643 in encounter number 2032 written to log on Warcraftlogs request
+** CACHED DATA  ** sCharacter level: 100 Character honorable kills: 2590 written to log on Battlenet request
+Character class: Paladin Character specialization: Holy written to log on Raider_io request
+** CACHED DATA  ** Ranked 1185 out of 29643 in encounter number 2032 written to log on Warcraftlogs request
+Character level: 110 Character honorable kills: 1765 written to log on Battlenet request
+** CACHED DATA  ** Character class: Paladin Character specialization: Holy written to log on Raider_io request
+** CACHED DATA  ** Ranked 1185 out of 29643 in encounter number 2032 written to log on Warcraftlogs request
+Character level: 110 Character honorable kills: 370 written to log on Battlenet request
+** CACHED DATA  ** Character class: Paladin Character specialization: Holy written to log on Raider_io request
+** CACHED DATA  ** Ranked 1185 out of 29643 in encounter number 2032 written to log on Warcraftlogs request
+** CACHED DATA  ** sCharacter level: 110 Character honorable kills: 370 written to log on Battlenet request
+** CACHED DATA  ** Character class: Paladin Character specialization: Holy written to log on Raider_io request
+** CACHED DATA  ** Ranked 1185 out of 29643 in encounter number 2032 written to log on Warcraftlogs request
